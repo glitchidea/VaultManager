@@ -1,3 +1,5 @@
+Application language is Turkish
+
 ## VaultManager Solvent
 ### Features:
 
