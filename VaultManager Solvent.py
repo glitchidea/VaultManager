@@ -1,5 +1,3 @@
-# KDBX CRACK AMA PARALEL OLARAK DENER VE AKLINDA TUTMADAN DOSYA YOLUNDAN SÜREKLİ OLARAK ÇEKER- HIZLIDIR
-
 import itertools
 import string
 from pykeepass import PyKeePass
