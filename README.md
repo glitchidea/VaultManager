@@ -1,4 +1,5 @@
-Application language is Turkish
+These applications operate via the terminal and prioritize comfort and convenience.
+The application is in Turkish.
 
 ## VaultManager Solvent
 ### Features:
@@ -104,4 +105,3 @@ The application is designed to enhance the security of KeePass KDBX database fil
 - Based on the selected operation number (`1`-`6`) from the main menu, the corresponding operation is performed, or the user can exit the program by entering `q`.
 - After each operation, appropriate feedback is provided to the user, and the operation is completed.
 - In case of errors, appropriate error messages are shown to the user, prompting them to press ENTER to continue.
-
