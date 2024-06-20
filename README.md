@@ -116,8 +116,8 @@ This script offers users a practical tool for managing entries in KeePass KDBX d
 ---
 ---
 
-[TR]
 
+[TR]
 ##VaultManager Solvent
 ### Özellikleri:
 
